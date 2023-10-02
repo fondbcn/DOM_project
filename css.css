@@ -19,3 +19,19 @@ input{
 	flex:1;
 	padding:5px;
 }
+.task{
+	width:100%;
+	display:flex;
+}
+.checkTask{
+	background-color:green;
+}
+.deleteTask{
+	background-color:red;
+}
+.task button{
+	flex:1;
+}
+.task li{
+	flex:4
+}
